@@ -54,4 +54,8 @@ As shown in the figure below, the difference of complexity between them is in th
 
 ![image](https://user-images.githubusercontent.com/45640708/146440580-81ddb0c4-0187-4ad4-9162-8bd589bc6bbd.png)
 
+## 4.0 Results
 
+## 5.0 Statistical Analysis
+
+## 6.0 Business Application
