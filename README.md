@@ -46,3 +46,12 @@ The dataset is a case of imbalanced data due to the class 1 for defaulting perso
 
 The dataset after the cleaning process and treatment, the over sampled data and under sampled data were saved in different files.
 
+## 3.0 Methodology
+
+Although I could have chosen more than three algorithms - or even others-, I have selected only three: KNN, Decision Tree and Random Forest. In order to get the results, each of them was trained in ten model versions, which were made in different files.
+As some versions required the cross validation, it was necessary to apply the statistical analysis in order to check whether there was any difference.
+As shown in the figure below, the difference of complexity between them is in the layer of knowledge, the main distinction between versions 7 and 9 and between 8 and 10 being the technique used to selecting features.
+
+![image](https://user-images.githubusercontent.com/45640708/146440580-81ddb0c4-0187-4ad4-9162-8bd589bc6bbd.png)
+
+
