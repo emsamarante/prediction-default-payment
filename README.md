@@ -70,4 +70,4 @@ The Tukey's multicomparison analysis method was applied to test the largest pair
 
 ## 5.0 Business Application
 
-I've simulated the models in the business application in two scenarios: one per each model. 
+I've simulated the models in the business application in two scenarios: one per each model.  
