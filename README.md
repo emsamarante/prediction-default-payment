@@ -54,8 +54,20 @@ As shown in the figure below, the difference of complexity between them is in th
 
 ![image](https://user-images.githubusercontent.com/45640708/146440580-81ddb0c4-0187-4ad4-9162-8bd589bc6bbd.png)
 
-## 4.0 Results
+## 4.0 Statistical Analysis
 
-## 5.0 Statistical Analysis
+The two models with the lowest variation coeficient were Random Forest of Version 7 to recall score and Decision Tree of Version 9 to accuracy score.
+The Shapiro test was applied in the results in order to check if the data to recall and accuracy score have normal distribution. To both sets of data, only one version per set has non normal distribution, for instance: 
+- Recall Score: Random Forest of Version 8
+- Accuracy Score = Random Forest of Version 10
 
-## 6.0 Business Application
+The Tukey's multicomparison analysis method was applied to test the largest pair-wise difference among the results to both data sets. As a result, the two best models to each metric score were:
+- **Recall Score**: KNN of Version 5 - 93.62%
+- **Accuracy Score**: Random Forest of Version 5 - 87.47%
+
+![image](https://user-images.githubusercontent.com/45640708/146586619-e5867ff1-3b1f-4cc5-ae76-eed6b1d2f425.png)
+![image](https://user-images.githubusercontent.com/45640708/146586692-6e37018e-ad50-4244-a408-01616d1a0b9d.png)
+
+## 5.0 Business Application
+
+I've simulated the models in the business application in two scenarios: one per each model. 
