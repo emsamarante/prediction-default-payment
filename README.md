@@ -70,4 +70,8 @@ The Tukey's multicomparison analysis method was applied to test the largest pair
 
 ## 5.0 Business Application
 
-I've simulated the models in the business application in two scenarios: one per each model.  
+I've simulated the models in business application for two scenarios: one per each model. In both, the company granted a financial credit of 2 millions dollars for their clients, and the model predict how much money was payed for them. Then, the Figure below shows how much money was saved in comparison of two models which have only 6.15% of difference in performance.
+
+**The losses company was reduced in a -50.84%!!!**
+
+![image](https://user-images.githubusercontent.com/45640708/146597239-0e1e8c22-0d87-46c1-a4dd-7c8145635f17.png)
